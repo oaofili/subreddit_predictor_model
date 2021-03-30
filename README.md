@@ -15,8 +15,6 @@ With this in mind, I was curious to know as consultant, what Adobe Illustrator c
 
 ### Problem Statement
 
-![](https://ofilispeaks.com/wp-content/uploads/Screen-Shot-2021-03-05-at-11.37.53-AM.png)
-
 > “If you torture the data long enough, it will confess.” - Ronald Coase
 
 ProCreate is perceived to be a more intuitive and less frustrating app to use than Adobe Illustrator.
@@ -70,5 +68,3 @@ The Data was cleaned several times, for different reasons as the project progres
 2. **ProCreate Expansion** ProCreate can currently only do Rasterized images, there are workarounds to get Vector images in ProCreate, however if ProCreate figures out vector on their Ipad app, they could eat into the Adobe Illustrator user base and ultimately PhotoShop!
 
 3. **Identify Problematic Features** It is recommended that the project is expanded and more data is analyzed so we can find out the specific features that frustrate Adobe Illustration users. For example this text here says "The color picker is maddening. Want to bite my hair off right now." It would be helpful to understand if there are other people struggling with the Color Picker feature currently.
-
-![](https://ofilispeaks.com/wp-content/uploads/Screen-Shot-2021-03-05-at-11.39.30-AM.png)
