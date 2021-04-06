@@ -54,7 +54,7 @@ To scrape the data from Reddit, 3 methods were tested and their results and perf
 | time_utc          | float          | the time posted in epoch time                                                   |
 | title              | object(string) | the post title                                                                  |
 | upvote             | float          | the ratio of upvotes to downvotes where 1 is all upvotes and 0 is all downvotes |
-| target             | int            | dummy, 1 if post from AsianBeauty, 0 from SkincareAddiction                     |
+| target             | int            | dummy, 1 if post from Adobe Illustrator, 0 from Pro Create                    |
 | title_word_count | int            | number of words in title                                                        |
 | post_word_count  | int            | number of words in post                                                         |
 | post_isnull       | int            | dummy, 1 if no words in post, 0 otherwise                                       |
